@@ -1,0 +1,26 @@
+{
+    "name": "cookieUtil",
+    "version": "0.0.1",
+    "description": "a easy way to handle cookie",
+    "main": "cookieUtil.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cnchanning/cookieUtil.git"
+    },
+    "keywords": [
+        "event"
+    ],
+    "devDependencies":{
+        "mocha":"*",
+        "expect.js":"*"
+    },
+    "author": "cnchanning",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cnchanning/cookieUtil/issues"
+    },
+    "homepage": "https://github.com/cnchanning/cookieUtil"
+}
